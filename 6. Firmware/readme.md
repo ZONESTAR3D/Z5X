@@ -1,11 +1,13 @@
 ## Firmware download link:
-:arrow_down: Please click [here](https://github.com/ZONESTAR3D/Firmware) to download.
+:arrow_down: Please download from this link: **https://github.com/ZONESTAR3D/Firmware**
 
 ## Firmware source code download link:
-:arrow_down:  Please click [here](https://github.com/ZONESTAR3D/source-code-for-3d-printer) to download.
+:arrow_down: Please download from this link: **https://github.com/ZONESTAR3D/source-code-for-3d-printer**
 
 ## Firmware download tools
-:arrow_down:  Please click [here]() to download.
+:arrow_down:  Please click [**here**](./Firmware%20Upload%20tools%20for%20Win.zip) and then click ***download*** button.  
+:star2: There is a guide pdf file in the zip file, please following the guide to download the firmware to the control board.  
+:warning: NOTE: The name of the directory where hex files are stored can only use English characters and numbers.  
 
 ### How to downlod files from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
